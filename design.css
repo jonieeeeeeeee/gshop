@@ -357,13 +357,13 @@ a {
 
 .best_prodcuts .presentation .bp_left img{
     float: left;
-    width: 50vw;
+    width: 50%;
     height: 40vh;
 }
 
 .best_prodcuts .presentation .bp_right img{
     float: right;
-    width: 50vw;
+    width: 50%;
     height: 40vh;
 }
 
